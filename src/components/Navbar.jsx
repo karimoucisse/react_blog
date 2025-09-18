@@ -37,7 +37,7 @@ const Navbar = () => {
 			<a href="">Plus populaire</a>
 			<a href="">A propos</a>
 			<a href="">
-				<button className="py-2 px-4 bg-[#191919] rounded-3xl text-white">Se connecter</button>
+				<button className="py-2 px-4 bg-[#8B2DE9] rounded-3xl text-white cursor-pointer">Se connecter</button>
 			</a>
 		</div>
 	</div>
